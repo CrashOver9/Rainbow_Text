@@ -4,12 +4,11 @@
     function load()
     {
     window.location.href = "appleprintcenter://";
-​
+
     }
     </script>
     </head>
-​
+
     <body onload="load()">
    </body>
 </html> 
-​
