@@ -1,4 +1,4 @@
-<center><table border=0 cellpadding=10 cellspacing=0 width=500><tr><td bgcolor=#000000><p align=center><font face=arial size=4><b><font color=#FF0000>R</font><font color=#FFAA00>a</font><font color=#FFFF00>i</font><font color=#99FF00>n</font><font color=#00FF00>b</font><font color=#00FF99>o</font><font color=#00FFFF>w</font><font color=#0099FF> </font><font color=#0000FF>T</font><font color=#9900FF>e</font><font color=#FF00FF>x</font><font color=#FF0099>t</font></b></font></p></td></tr></table></center>
+<span style='font-weight:bold;font-style:italic;'><span style='color:#FF0000;'>R</span><span style='color:#FF7F00;'>a</span><span style='color:#FFFF00;'>i</span><span style='color:#7FFF00;'>n</span><span style='color:#00FF00;'>b</span><span style='color:#00FF7F;'>o</span><span style='color:#00FEFF;'>w</span> <span style='color:#0000FF;'>T</span><span style='color:#7F00FF;'>e</span><span style='color:#FF00FE;'>x</span><span style='color:#FF007F;'>t</span></span>
 ------
 
 
