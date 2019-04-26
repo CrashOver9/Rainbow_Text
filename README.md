@@ -1,4 +1,4 @@
-<span style='font-weight:bold;font-style:italic;'><span style='color:#FF0000;'>R</span><span style='color:#FF7F00;'>a</span><span style='color:#FFFF00;'>i</span><span style='color:#7FFF00;'>n</span><span style='color:#00FF00;'>b</span><span style='color:#00FF7F;'>o</span><span style='color:#00FEFF;'>w</span> <span style='color:#0000FF;'>T</span><span style='color:#7F00FF;'>e</span><span style='color:#FF00FE;'>x</span><span style='color:#FF007F;'>t</span></span>
+[b][i][color=#FF0000]R[/color][color=#FF7F00]a[/color][color=#FFFF00]i[/color][color=#7FFF00]n[/color][color=#00FF00]b[/color][color=#00FF7F]o[/color][color=#00FEFF]w[/color] [color=#0000FF]T[/color][color=#7F00FF]e[/color][color=#FF00FE]x[/color][color=#FF007F]t[/color][/i][/b]
 ------
 
 
